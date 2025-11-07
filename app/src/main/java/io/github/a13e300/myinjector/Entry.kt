@@ -40,6 +40,7 @@ class Entry : IXposedHookLoadPackage, IXposedHookZygoteInit {
                 "uz.unnarsx.cherrygram",
                 "xyz.nextalone.nagram",
                 "nu.gpu.nagram",
+                "tw.nekomimi.nekogram",
                 "com.xtaolabs.pagergram"
             ) -> TelegramHandler
             "com.termux" -> TermuxHandler()
